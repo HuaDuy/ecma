@@ -1,0 +1,202 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Iphone"
+    },
+    {
+      "id": 3,
+      "name": "Android"
+    },
+    {
+      "id": 2,
+      "name": "Phụ kiện"
+    },
+    {
+      "name": "ádadsadasdas",
+      "id": 4
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "cateId": 1,
+      "name": "iPhone Xs Max 64GB",
+      "image": "https://www.xtmobile.vn/vnt_upload/product/Hinh_DT/Iphone/xs_max/thumbs/(600x600)_crop_xs_max_gold_800x800.jpg",
+      "description": "Siêu phẩm mới nhất của Apple iPhone XS Max 64GB cũ sở hữu màn hình 6.5inch với màu sắc sang trọng là đề tài hot trong các thảo luận về công nghệ gần đây. Đây được xem là chiếc iPhone có màn hình lớn nhất trong lịch sử từ trước đến này. Hãy cùng XTmobile đánh giá ngay iPhone Xs Max 64GB cũ có đáng mua khi rẻ hơn máy mới đến vài triệu đồng hay không nhé!",
+      "price": "12.590.000",
+      "status": false,
+      "quantity": 82644
+    },
+    {
+      "id": 2,
+      "cateId": 1,
+      "name": "iPhone 8 64GB",
+      "image": "https://www.xtmobile.vn/vnt_upload/product/10_2019/thumbs/600_600_iphone_8_black_800x800_2.jpg",
+      "price": "5.490.000",
+      "description": "iPhone 8 64GB được đánh giá là có ngoại hình đẹp và cấu hình tốt. Vì thế mà mặc dù máy được ra mắt từ năm 2017 nhưng vẫn rất được nhiều người yêu thích.",
+      "status": true,
+      "quantity": 57587
+    },
+    {
+      "id": 3,
+      "cateId": 1,
+      "name": "iPhone 11 64GB (VN/A)",
+      "image": "https://www.xtmobile.vn/vnt_upload/product/10_2020/iphone_11_xanh_xtmobile_1.jpg",
+      "price": "16.490.000",
+      "description": "iPhone 11 64GB VN/A - sự lựa chọn hợp lý dành cho mọi đối tượng người dùng. iPhone 11 mang những chức năng cần thiết nhất của 1 chiếc iPhone kết hợp với 1 thiết kế trẻ trung, hiện đại.",
+      "status": false,
+      "quantity": 51117
+    },
+    {
+      "id": 4,
+      "cateId": 1,
+      "name": "iPhone 12 Pro Max 128GB Chính hãng (VN/A)",
+      "image": "https://www.xtmobile.vn/vnt_upload/product/01_2021/thumbs/600_600_iphone_12_pro_silver_xtmobile.jpg",
+      "price": "30.090.000",
+      "description": "iPhone 12 Pro Max 128GB VN/A mẫu flagship sở hữu thiết kế vuông vắn mạnh mẽ. Không chỉ vậy, điện thoại còn đi cùng chip Apple A14 mạnh mẽ, cảm biến LIDAR cùng loạt tính năng xịn xò khác.",
+      "status": false,
+      "quantity": 56
+    },
+    {
+      "id": 5,
+      "cateId": 2,
+      "name": "Pin sạc dự phòng HoLaTravel Power Go 10000mAh",
+      "image": "https://www.xtmobile.vn/vnt_upload/product/11_2020/thumbs/600_pdp_holatravel_power_go_10000mah_xtmobile.jpg",
+      "price": "390000",
+      "description": "Pin sạc dự phòng HoLaTravel Power Go 10000mAh là mẫu pin dự phòng được đánh giá cao hiện nay. Tuy sở hữu thiết kế nhỏ gọn nhưng phụ kiện này có dung lượng lớn lên tới 10.000 mAh cùng công nghệ Smart AI thông minh. Nếu bạn đang muốn mua mẫu pin dự phòng giá tốt và chất lượng thì pin sạc dự phòng HoLaTravel Power Go 10000mAh sẽ là ứng cử viên sáng giá đấy. Cùng tìm hiểu ngay những ưu điểm của sản phẩm này ngay bên dưới đây nhé!",
+      "status": true,
+      "quantity": 7373
+    },
+    {
+      "id": 6,
+      "cateId": 3,
+      "name": "OnePlus 6T (8GB|128GB)",
+      "image": "https://www.xtmobile.vn/vnt_upload/product/11_2020/oneplus_6t.jpg",
+      "price": "5.690.000",
+      "description": "",
+      "status": true,
+      "quantity": 26
+    },
+    {
+      "id": 7,
+      "cateId": 1,
+      "name": "iPad 2019 32GB 10.2inch (Gen 7) Wifi (Cũ 99% - Fullbox)",
+      "image": "https://www.xtmobile.vn/vnt_upload/product/01_2021/ipad_102_inch_wifi_2019_gen_7_gold.jpg",
+      "price": "7.790.000",
+      "description": "iPad 2019 32GB 10.2inch Wifi là mẫu iPad phù hợp cho học tập và các nhu cầu giải trí. Dòng iPad Gen 7 vẫn rất đáng giá khi lựa chọn máy tính bảng ở thời điểm hiện tại.",
+      "status": true,
+      "quantity": 61
+    },
+    {
+      "id": 8,
+      "cateId": 2,
+      "name": "Apple AirPods Pro (Wireless Chargers) VN/A0",
+      "image": "https://www.xtmobile.vn/vnt_upload/product/12_2020/thumbs/600_apple_airpods_pro_vna.jpg",
+      "price": "5.350.000",
+      "description": "AirPods Pro VN/A mẫu tai nghe Bluletooth có thiết kế in-ear hoàn độc đáo. Với thiết kế nhỏ gọn cùng loạt tính năng mới, thiết bị sẽ mang đến cho bạn những trải nghiệm âm thanh sâu lắng, chân thực.",
+      "status": false,
+      "quantity": 36
+    },
+    {
+      "id": 9,
+      "cateId": 1,
+      "name": "iPad Gen 8 (2020) 32GB Wifi (VN/A)",
+      "image": "https://www.xtmobile.vn/vnt_upload/product/12_2020/thumbs/600_600x600_ipad_gen_7_bac_1.jpg",
+      "price": "9.490.000",
+      "description": "iPad Gen 8 32GB 4G mẫu iPad có thiết kế quen thuộc nhưng đi cùng chip Apple A12 mạnh mẽ. Nhờ vậy, thiết bị hứa hẹn sẽ tăng gấp đôi hiệu năng về đồ họa, hiệu năng CPU cao hơn 40% so các thế hệ trước đó.",
+      "status": false,
+      "quantity": 29
+    },
+    {
+      "id": 10,
+      "cateId": 1,
+      "name": "iPad Pro 2020 128GB 12.9inch Wifi (VN/A)",
+      "image": "https://www.xtmobile.vn/vnt_upload/product/10_2020/thumbs/600_600_ipad_pro_2020_11inch_128gb_wifi_xtmobile_8.jpg",
+      "price": "25.890.000",
+      "description": "Apple vừa âm thầm ra mắt iPad Pro 2020 giữ nguyên mầu sắc (Silver, Space Gray) và 2 kích thước Màn hình: 11-inch và 12.9-inch, tùy chọn dung lượng bộ nhớ (128GB, 256GB, 512GB và 1TB), bản Wi-Fi và Wi-Fi + Cellular.",
+      "status": true,
+      "quantity": 42
+    },
+    {
+      "id": 11,
+      "cateId": 3,
+      "name": "Galaxy Note 9 (6GB|128GB) Hàn Quốc SM-N960N (Cũ 99%)",
+      "image": "https://www.xtmobile.vn/vnt_upload/product/01_2019/thumbs/600_samsung-galaxy-note-9-128gb-han-cu-mau-den-xtmobile.jpg",
+      "price": "6.790.000",
+      "description": "Samsung Galaxy Note 9 Hàn cũ là một trong những chiếc điện thoại to nhất và nổi bật nhất trong nửa cuối năm 2018. Đây là một minh chứng cho sự sáng tạo mạnh mẽ của Samsung khi luôn tạo ra những điều tốt đẹp nhất đến với người dùng.",
+      "status": true,
+      "quantity": 86
+    },
+    {
+      "id": 12,
+      "cateId": 3,
+      "name": "Xiaomi Poco M3 (4G|64GB) (CTY)",
+      "image": "https://www.xtmobile.vn/vnt_upload/product/01_2021/thumbs/600_xiaomi_poco_m3.jpg",
+      "price": "3.440.000",
+      "description": "Xiaomi Poco M3 64GB ra mắt nổi bật với viên pin có dung lượng khủng lên đến 6000 mAh, cấu hình ổn định cùng ngoại hình ấn tượng. Nhưng đi kèm với mức giá cực tốt, khiến nhiều người lựa chọn ở thời điểm này.",
+      "status": false,
+      "quantity": 14
+    },
+    {
+      "id": 13,
+      "cateId": 2,
+      "name": "Loa Bluetooth Morello BS03",
+      "image": "https://www.xtmobile.vn/vnt_upload/product/08_2019/thumbs/600_loa-bluetooth-morello-bs03_1.jpg",
+      "price": "450.000",
+      "description": "Loa Bluetooth Morello BS03 với thiết kế nhỏ gọn mang đến chất lượng âm thanh tuyệt vời cho người dùng. Với kết nối đơn giản, truyền tải âm thanh xa cùng với mức giá rẻ đã giúp loa Bluetooth này được nhiều người yêu thích hơn.",
+      "status": false,
+      "quantity": 64
+    },
+    {
+      "id": 14,
+      "cateId": 2,
+      "name": "Củ sạc Mophie 10W USB-A",
+      "image": "https://www.xtmobile.vn/vnt_upload/product/10_2020/thumbs/600_cu_sac_mophie_10w_usb_a.jpg",
+      "price": "290.000",
+      "description": "Củ sạc Mophie 10W USB-A mang thiết kế nhỏ gọn, tương thích với tất cả những dây cáp sử dụng cổng USB-A hiện tại. Thương hiệu Mophie luôn đem đến cho người dùng cảm giác an tâm vì chất lượng.",
+      "status": true,
+      "quantity": 94
+    },
+    {
+      "id": 16,
+      "cateId": 3,
+      "name": "Vsmart Active 3 (6GB|64GB)",
+      "image": "https://www.xtmobile.vn/vnt_upload/product/11_2020/thumbs/600_600_vsmart_active_3_6gb_64gb_1.jpg",
+      "price": "3.290.000",
+      "description": "Vsmart Active 3 6GB chiếc smartphone giá rẻ mới được Vsmart trình làng với nhiều cải tiến vượt trôi. Không chỉ sở hữu hiệu năng ổn định, model này còn được trang bị viên pin có dung lượng lớn cho thời lượng sử dụng ấn tượng trong suốt ngày dài.",
+      "status": true,
+      "quantity": 64
+    },
+    {
+      "id": 17,
+      "cateId": 3,
+      "name": "LG V40 ThinQ 128GB Hàn Quốc V409N (Cũ 99%)",
+      "image": "https://www.xtmobile.vn/vnt_upload/product/03_2019/thumbs/600_lg_v40_800x800.jpg",
+      "price": "4.190.000",
+      "description": "LG tiếp tục ra mắt LG V40 ThinQ với thiết kế đẹp, phần cứng ấn tượng. Đồng thời đây cũng là chiếc smartphone 5 camera đầu tiên trên thế giới và hứa hẹn sẽ cứu vãn 'triều đại LG'.",
+      "status": false,
+      "quantity": 65
+    },
+    {
+      "id": 18,
+      "cateId": 3,
+      "name": "Galaxy Note 20 Ultra 5G (12GB|256GB) HK 2 SIM",
+      "image": "https://www.xtmobile.vn/vnt_upload/product/09_2020/thumbs/600_600_600_galaxy_note_20_ultra_5g_256gb_2.jpg",
+      "price": "23.890.000",
+      "description": "Galaxy Note 20 Ultra 5G 2 sim là một trong những điện thoại có sức hút nhất hiện nay với hàng loạt ưu điểm hấp dẫn. Đây được xem là đối thủ đáng gờm nhất hiện nay đối với các flagship trong cùng phân khúc, chắc chắn sẽ mang đến trải nghiệm tuyệt vời cho người dùng. ",
+      "status": false,
+      "quantity": 22
+    },
+    {
+      "id": 19,
+      "cateId": 3,
+      "name": "Oppo Reno 5 (8GB|128GB) (CTY)",
+      "image": "https://www.xtmobile.vn/vnt_upload/product/08_2019/thumbs/600_oppo-reno-5.png",
+      "price": "7.890.000",
+      "description": "Oppo Reno 5 là mẫu smartphone mới được ra mắt thuộc vào phân khúc tầm trung. Oppo tự tin máy là chiếc smartphone tốt nhất trong phân khúc.",
+      "status": false,
+      "quantity": 98
+    }
+  ]
+}
